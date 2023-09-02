@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento do site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-07-19T11:07:00.318Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 59,
+      "createdAt": "2023-07-19T11:07:30.318Z"
+    },
+    {
+      "id": 3,
+      "description": "Refrigerante",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 8,
+      "createdAt": "2023-07-19T11:08:35.318Z"
+    },
+    {
+      "description": "Desenvolvimento de APP",
+      "price": 20000,
+      "category": "Apps",
+      "type": "income",
+      "createdAt": "2023-07-20T21:19:50.028Z",
+      "id": 4
+    },
+    {
+      "description": "Barra de chocolate",
+      "price": 15,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-07-20T21:47:32.504Z",
+      "id": 5
+    }
+  ]
+}
